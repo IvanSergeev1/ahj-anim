@@ -1,6 +1,6 @@
-[Ссылка на проект]()
+[Ссылка на проект](https://ivansergeev1.github.io/ahj-anim)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/ds0k4c2xxyq3rh8j?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-anim)
 
 ### Collapse
 
